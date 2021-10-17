@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-portfolio.git/static/css/main.3e5a54ef.chunk.css",
+    "main.js": "/react-tailwind-portfolio.git/static/js/main.e0dc08d5.chunk.js",
+    "main.js.map": "/react-tailwind-portfolio.git/static/js/main.e0dc08d5.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-portfolio.git/static/js/runtime-main.e591db80.js",
+    "runtime-main.js.map": "/react-tailwind-portfolio.git/static/js/runtime-main.e591db80.js.map",
+    "static/css/2.800c915c.chunk.css": "/react-tailwind-portfolio.git/static/css/2.800c915c.chunk.css",
+    "static/js/2.b0e6a13b.chunk.js": "/react-tailwind-portfolio.git/static/js/2.b0e6a13b.chunk.js",
+    "static/js/2.b0e6a13b.chunk.js.map": "/react-tailwind-portfolio.git/static/js/2.b0e6a13b.chunk.js.map",
+    "index.html": "/react-tailwind-portfolio.git/index.html",
+    "static/css/2.800c915c.chunk.css.map": "/react-tailwind-portfolio.git/static/css/2.800c915c.chunk.css.map",
+    "static/css/main.3e5a54ef.chunk.css.map": "/react-tailwind-portfolio.git/static/css/main.3e5a54ef.chunk.css.map",
+    "static/js/2.b0e6a13b.chunk.js.LICENSE.txt": "/react-tailwind-portfolio.git/static/js/2.b0e6a13b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e591db80.js",
+    "static/css/2.800c915c.chunk.css",
+    "static/js/2.b0e6a13b.chunk.js",
+    "static/css/main.3e5a54ef.chunk.css",
+    "static/js/main.e0dc08d5.chunk.js"
+  ]
+}
